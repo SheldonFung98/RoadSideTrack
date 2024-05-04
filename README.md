@@ -18,10 +18,8 @@ Two default trained engine is provided in `engines/` folder. If your want to use
     ...
 </launch>
 ```
-To train your own engine, please use this repository:
-```
-https://github.com/SheldonFung98/RoadSideTrack-PyTorch
-```
+To train your own engine, please use [this repository](https://github.com/SheldonFung98/RoadSideTrack-PyTorch):
+
 ### Run
 Please specify the image input node in the `launch/front.launch` file, then you can launch with the following command:
 ```
